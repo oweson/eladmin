@@ -22,10 +22,10 @@ spring:
 
   redis:
     #数据库索引
-    database: 0
-    host: 127.0.0.1
+    database: 6
+    host: 47.94.153.206
     port: 6379
-    password:
+    password: df-21
     #连接超时时间
     timeout: 5000
 
